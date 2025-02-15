@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samadhan Ghorpade!</h1>
 
-![banner png](https://github.com/user-attachments/assets/287c0bbf-d823-4e31-a72a-4b1d9a826b57)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc3acf41-845b-477d-a499-e8dacf119c0e" alt="Banner">
+</p>
 
-
-<!-- Ensure this image exists in your repo -->
+---
 
 ## 💻 About Me
 
@@ -17,22 +18,32 @@
 
 ---
 
-## 🏆 My Tech Stack
+## 🚀 My Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="55" height="55"></a>
+  <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"></a>
+  <a href="https://www.javascript.com/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55"></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55"></a>
+  <a href="https://react.dev/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55" height="55"></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"></a>
+  <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="55" height="55"></a>
+  <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" height="55"></a>
+  <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="55" height="55"></a>
+  <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="55" height="55"></a>
+  <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55" height="55"></a>
+  <a href="https://www.kali.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="55" height="55"></a>
+  <a href="https://archlinux.org/"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="55" height="55"></a>
+  <a href="https://ubuntu.com/"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="55" height="55"></a>
+</p>
 
----
+
 
 ## 🔥 Featured Projects
 
 ### 🚕 *[Uber Backend](https://github.com/SamadhanGh/uber-backend)*
 - Developed the backend for a *ride-sharing platform*
-- Integrated *Spring Boot, **PostgreSQL, and **AWS RDS*
+- Integrated *Spring Boot, PostgreSQL, and AWS RDS*
 - Implemented *secure authentication* and *real-time ride booking*
 
 ### 💬 *[Real-Time Chat App](https://github.com/SamadhanGh/chat-app)*
@@ -44,16 +55,26 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SamadhanGh&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamadhanGh&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamadhanGh&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamadhanGh&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ---
 
 ## 📢 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SamadhanGh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamadhanGh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SamadhanGh)
+<p align="center">
+  <a href="https://linkedin.com/in/SamadhanGh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/SamadhanGh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://twitter.com/SamadhanGh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
 
 💬 Feel free to reach out if you want to collaborate or just have a tech chat!
 
