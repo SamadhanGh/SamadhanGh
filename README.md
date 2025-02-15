@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samadhan Ghorpade!</h1>
+# Hi 👋, I'm Samadhan Ghorpade!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cc3acf41-845b-477d-a499-e8dacf119c0e" alt="Banner">
@@ -8,17 +8,18 @@
 
 ## 💻 About Me
 
-- 🎓 *B.Tech CSE* | *IIIT Sonepat* (3rd Year)
-- 💡 Passionate about *Java Full-Stack Development* with a *Heavy Backend Focus*
-- 🧀 Skilled in *Spring Boot, PostgreSQL, MySQL, Kafka, RabbitMQ, Docker*
-- 🏆 Competitive Programmer | Codeforces | LeetCode | AtCoder
-- 🏗 Building real-time applications & system-level solutions
-- 🖥 Fast development on *Ubuntu → Arch Linux → Now Exploring Kali Linux*
-- 🌍 Exploring high-paying global opportunities in backend development
+- 🎓 **B.Tech in Computer Science** | *IIIT Sonepat* (Expected: May 2026)
+- 💡 Passionate **Full-Stack Developer** with a **Strong Backend Focus**
+- 🏆 Competitive Programmer | **LeetCode** | **Codeforces** | **AtCoder**
+- 🛠 Skilled in **Spring Boot, PostgreSQL, MySQL, Docker, Kafka, RabbitMQ**
+- 🔥 Experience in **Software Engineering & System Design**
+- 🏗 Building scalable **real-time applications & system-level solutions**
+- ⚡ Fast development workflow on **Ubuntu → Arch Linux → Kali Linux**
+- 🌍 Seeking **high-impact global opportunities** in backend development
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="55" height="55"></a>
@@ -37,19 +38,28 @@
   <a href="https://ubuntu.com/"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="55" height="55"></a>
 </p>
 
-
+---
 
 ## 🔥 Featured Projects
 
-### 🚕 *[Uber Backend](https://github.com/SamadhanGh/uber-backend)*
-- Developed the backend for a *ride-sharing platform*
-- Integrated *Spring Boot, PostgreSQL, and AWS RDS*
-- Implemented *secure authentication* and *real-time ride booking*
+### 🚕 [Uber Clone - Spring Boot](https://github.com/SamadhanGh/uber-backend)
+- Developed a **real-time ride-sharing platform backend**
+- Integrated **Spring Boot, PostgreSQL, AWS RDS**
+- Implemented **authentication, ride-booking strategy, and secure payments**
 
-### 💬 *[Real-Time Chat App](https://github.com/SamadhanGh/chat-app)*
-- Developed a *WebSocket-based* chat application
-- Uses *MongoDB, Docker, Spring Boot* for a robust backend
-- Supports real-time messaging & scalable architecture
+### 📂 [EclipseShare - File Sharing App](https://github.com/SamadhanGh/eclipse-share)
+- Built a **high-performance file-sharing application** using **Spring Boot**
+- Handles **10TB+ data efficiently**, reducing latency by **30%**
+- Integrated **Spring Security, global exception handling, and version control**
+
+---
+
+## 📜 Certifications & Experience
+
+### Walmart USA - **Advanced Software Engineering Virtual Experience**
+- Developed a **custom heap data structure** in Java for Walmart’s shipping system
+- Designed a **UML class diagram** for a data processor system
+- Created an **ER diagram** for a scalable database in Walmart’s pet department
 
 ---
 
@@ -73,8 +83,8 @@
   </a>
 </p>
 
-💬 Feel free to reach out if you want to collaborate or just have a tech chat!
+💬 Feel free to reach out for collaborations or tech discussions!
 
 ---
 
-🌟 *If you like my work, consider giving a star to my repositories!* 🌟
+🌟 *If you like my work, consider giving a star ⭐ to my repositories!* 🌟
