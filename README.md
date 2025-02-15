@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samadhan Ghorpade!</h1>
 
-![banner png](https://github.com/user-attachments/assets/756723d2-38ca-4cf8-b1b8-cbd5a45de2de)
+![banner png](https://github.com/user-attachments/assets/287c0bbf-d823-4e31-a72a-4b1d9a826b57)
+
+
 <!-- Ensure this image exists in your repo -->
 
 ## 💻 About Me
