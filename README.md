@@ -8,83 +8,83 @@
 
 ## 💻 About Me
 
-- 🎓 **B.Tech in Computer Science** | *IIIT Sonepat* (Expected: May 2026)  
-- 💡 Backend-Focused **Software Engineer** | Passionate about building **robust, scalable systems**
-- 🏁 Active Competitive Programmer | **LeetCode**, **Codeforces**, **AtCoder**
-- 🛠 Skilled in **Java, Spring Boot, PostgreSQL, Docker, Kafka, RabbitMQ**
-- ⚙️ Strong foundation in **System Design, Databases, and Microservices**
-- 💻 Dev environment evolved from **Ubuntu → Arch Linux → Fedora**
-- 🌍 Open to **global backend development opportunities** with real-world impact
+- 🎓 **B.Tech in Computer Science** | *IIIT Sonepat* (Expected: May 2026)
+- 🔁 **Frontend + Backend-Heavy Developer** — Bridging clean UI with scalable systems
+- 💡 Building impactful, real-time, and system-level applications
+- 🧠 Competitive Programmer | **LeetCode** | **Codeforces** | **AtCoder**
+- 🛠 Proficient in **Spring Boot, PostgreSQL, MySQL, Docker, Kafka, RabbitMQ**
+- 💻 Frontend Exposure: **React**, **TailwindCSS**, **JavaScript**
+- 🧩 Strong grasp of **Software Engineering**, **System Design**, and **Databases**
+- ⚡ Fast-paced dev workflows: **Ubuntu → Arch Linux → Fedora**
+- 🌍 Exploring global opportunities in full-stack/backend-focused roles
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="55" height="55" /></a>
-  <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55" /></a>
-  <a href="https://www.javascript.com/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55" /></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55" /></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55" /></a>
-  <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55" height="55" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="55" height="55" /></a>
-  <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" height="55" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="55" height="55" /></a>
-  <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55" height="55" /></a>
-  <a href="https://fedoraproject.org/"><img src="https://www.vectorlogo.zone/logos/fedoraproject/fedoraproject-icon.svg" width="55" height="55" /></a>
-  <a href="https://archlinux.org/"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="55" height="55" /></a>
-  <a href="https://ubuntu.com/"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="55" height="55" /></a>
+  <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="55" height="55"></a>
+  <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"></a>
+  <a href="https://www.javascript.com/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55"></a>
+  <a href="https://react.dev/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55" height="55"></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55"></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"></a>
+  <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55" height="55"></a>
+  <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" height="55"></a>
+  <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="55" height="55"></a>
+  <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55" height="55"></a>
+  <a href="https://fedoraproject.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="55" height="55"></a>
+  <a href="https://archlinux.org/"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="55" height="55"></a>
+  <a href="https://ubuntu.com/"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="55" height="55"></a>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
-### 🚖 [RideNow – On-Demand Ride Booking Backend](https://github.com/SamadhanGh/ridenow-backend)
-A fully functional **backend system for a ride-hailing platform**, similar to real-world apps like Uber.
-- Developed using **Java, Spring Boot, PostgreSQL**
-- Clean RESTful architecture with **Swagger UI** for testing and documentation
-- Implements **user authentication**, **driver-rider matching**, **ride tracking**, and **payment simulation**
-- Built with **modular design**, **DTOs**, and **custom exception handling**
+### 🚖 [RideFlex - Scalable Ride Booking System](https://github.com/SamadhanGh/uber-backend)
+- Developed the **backend** for a ride-booking platform using **Spring Boot**
+- Integrated **Swagger UI** for live API testing & documentation
+- Connected with **PostgreSQL (AWS RDS)** for persistent storage
+- Designed secure **authentication, booking logic, driver-rider flow**, and transaction handling
 
-### 📁 [EclipseShare – Distributed File Sharing System](https://github.com/SamadhanGh/eclipse-share)
-A fast and efficient **peer-to-peer file sharing system** designed for scale.
-- Built with **Spring Boot**, leveraging **Spring Security and REST APIs**
-- Manages large concurrent file transfers with version control and integrity verification
+### 📡 [EclipseShare - Distributed File Sharing System](https://github.com/SamadhanGh/eclipse-share)
+- Built a high-performance **file sharing backend** using Spring Boot
+- Designed to efficiently handle **10TB+ data transfers** with low latency
+- Integrated **Spring Security**, **version control**, and **global exception handling**
 
 ---
 
 ## 🎓 Certifications & Experience
 
-### Walmart USA – **Advanced Software Engineering Virtual Experience**
-- Built a **custom Java-based heap** for inventory optimization
-- Designed a **UML diagram** to model processing logic
-- Created a detailed **ER diagram** for inventory management in the pet supplies department
+### Walmart USA - **Advanced Software Engineering Virtual Experience**
+- Implemented a **custom heap data structure** in Java
+- Designed **UML diagrams** and **ER models** for scalable retail applications
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamadhanGh&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamadhanGh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamadhanGh&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamadhanGh&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 📢 Let's Connect!
 
 <p align="center">
   <a href="http://www.linkedin.com/in/samadhan-gh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/SamadhanGh/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
+💬 I'm always up for a good tech talk or collaboration idea!
+
 ---
 
-💬 Always up for a good backend architecture talk or building something cool!
-
-🌟 *If you find my work valuable, consider giving a ⭐ to my repositories!*
+🌟 *If you like my work, feel free to ⭐ my repos. It truly motivates me!* 🌟
