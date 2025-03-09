@@ -42,7 +42,7 @@
 
 ## 🔥 Projects
 
-### 🚖 [RideFlex - Scalable Ride Booking System](https://github.com/SamadhanGh/uber-backend)
+### 🚖 [RideNow - Scalable Ride Booking System](https://github.com/SamadhanGh/uber-backend)
 - Developed the **backend** for a ride-booking platform using **Spring Boot**
 - Integrated **Swagger UI** for live API testing & documentation
 - Connected with **PostgreSQL (AWS RDS)** for persistent storage
