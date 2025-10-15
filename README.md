@@ -48,10 +48,7 @@
 - Connected with **PostgreSQL (AWS RDS)** for persistent storage
 - Designed secure **authentication, booking logic, driver-rider flow**, and transaction handling
 
-### 📡 [EclipseShare - Distributed File Sharing System](https://github.com/SamadhanGh/eclipse-share)
-- Built a high-performance **file sharing backend** using Spring Boot
-- Designed to efficiently handle **10TB+ data transfers** with low latency
-- Integrated **Spring Security**, **version control**, and **global exception handling**
+
 
 ---
 
