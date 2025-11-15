@@ -1,8 +1,9 @@
 # Hi 👋, I'm Samadhan Ghorpade!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/resources/banner-typing.svg" alt="Animated Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Samadhan+Ghorpade;Backend+Developer;Spring+Boot+%7C+Java+%7C+PostgreSQL;System+Design+Enthusiast;Open+to+Work+and+Freelance" />
 </p>
+
 
 ---
 
@@ -20,7 +21,7 @@
 
 ## 🧑‍💼 Experience
 
-### 🌐 **Freelance Backend Developer (2024 – Present)**  
+### 🌐 **Freelance Backend Developer (2025 – Present)**  
 Delivered full-stack and backend systems for real clients.
 
 #### 📘 **MakeSenseEdu – Education Platform (Freelance)**  
