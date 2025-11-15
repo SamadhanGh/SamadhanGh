@@ -1,8 +1,9 @@
 # Hi 👋, I'm Samadhan Ghorpade!
 
 <p align="center">
-  <img src="https://i.imgur.com/ZS6s8vL.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Samadhan+Ghorpade;Backend+Developer;Spring+Boot+%7C+PostgreSQL+%7C+Security;Building+Scalable+Backend+Systems;Open+to+Work+and+Freelance" />
 </p>
+
 
 
 
