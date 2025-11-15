@@ -8,80 +8,119 @@
 
 ## 💻 About Me
 
-- 🎓 **B.Tech in Computer Science** | *IIIT Sonepat* (Expected: May 2026)
-- 🔁 **Frontend + Backend-Heavy Developer** — Bridging clean UI with scalable systems
-- 💡 Building impactful, real-time, and system-level applications
-- 🧠 Competitive Programmer | **LeetCode** | **Codeforces** | **AtCoder**
-- 🛠 Proficient in **Spring Boot, PostgreSQL, MySQL, Docker, Kafka, RabbitMQ**
-- 💻 Frontend Exposure: **React**, **TailwindCSS**, **JavaScript**
-- 🧩 Strong grasp of **Software Engineering**, **System Design**, and **Databases**
-- ⚡ Fast-paced dev workflows: **Ubuntu → Arch Linux → Fedora**
-- 🌍 Exploring global opportunities in full-stack/backend-focused roles
+- 🎓 **B.Tech in Computer Science** — *IIIT Sonepat* (Expected: May 2026)  
+- 💼 **Backend-heavy Full Stack Developer** focusing on scalable, secure, production-ready systems  
+- 🧵 Experienced with **Java 21 Virtual Threads**, concurrency, and system-level optimization  
+- 🛠 Skilled in **Spring Boot, SQL, Authentication Systems, Design Patterns & Clean Architecture**  
+- 🧩 Strong CS fundamentals: **DSA, OS, DBMS, Networks, System Design**  
+- 💡 Love building real-time apps, secure systems, and performance-intensive tools  
+- 🌍 Open to **internships, freelance work, remote backend roles**  
 
 ---
 
-## 🚀 Tech Stack
+## 🧑‍💻 Experience
+
+### 💼 **Freelance Backend Developer (2024 – Present)**  
+Worked on multiple paid freelance projects:
+- 🔐 Built secure authentication backends using **Spring Boot + JWT + OAuth2**  
+- 💳 Integrated **Razorpay payment gateway** + wallet-based flows  
+- 🚖 Developed custom **ride-matching + ride allocation logic** for a ride-hailing startup  
+- 🗄 Designed scalable **PostgreSQL schemas**, optimized queries, added caching  
+- 🧰 Delivered clean code with **documentation, Postman collections & deployment guides**  
+
+### 🏢 Walmart USA – *Advanced Software Engineering Virtual Experience*  
+- Implemented a **custom heap** in Java to optimize shipping ops  
+- Designed **UML + ERD** diagrams based on real business requirements  
+- Built a complete **ER model** for Walmart’s Pet Department  
+- Demonstrated strong problem-solving & real-world system modeling  
+
+---
+
+## 🚀 Featured Projects
+
+### 🌀 **Async Image Processing System** — *Java 21 Virtual Threads + JavaFX*  
+🔗 Demo | Live | Code  
+*Aug 2025 – Oct 2025*  
+- Built a **high-performance image processing engine** using Java 21 Virtual Threads  
+- Processed **900+ tiles concurrently in 150–300ms** for full HD images  
+- Implemented **9 advanced filters** (Sobel, Sharpen, Blur, Grayscale, etc.)  
+- Added a **real-time JavaFX UI** showing memory usage, threads, and processing time  
+- Applied **Strategy + Observer design patterns**, modular architecture & Maven automation  
+
+---
+
+### 🚖 **Volexo – Ride Booking System (Spring Boot)**  
+🔗 Demo | Live | Code  
+*Mar 2025 – Apr 2025*  
+- Built complete **ride-booking backend**: riders → drivers → payments  
+- Implemented **JWT Auth**, Spring Security, custom filter chain  
+- Designed optimal **ride allocation logic**, reducing wait time by **50%**  
+- Built wallet system, payment verification & driver status updates  
+- Production-ready structure: layers, DTOs, validations, global handlers  
+
+---
+
+### 🔐 **SafeNote – Secure Note Taking App (Spring Boot + React)**  
+🔗 Demo | Live | Code  
+*Jan 2025 – Feb 2025*  
+- Secure full-stack **notes app** with JWT Auth + OAuth2 + 2FA  
+- Implemented **password reset, audit logs, RBAC admin dashboard**  
+- Real-time editor with bold/italic/underline, responsive UI  
+- Documented APIs using **Swagger** + tested using **Postman**  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="55" height="55"></a>
-  <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"></a>
-  <a href="https://www.javascript.com/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55"></a>
-  <a href="https://react.dev/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55" height="55"></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55"></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"></a>
-  <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55" height="55"></a>
-  <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" height="55"></a>
-  <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="55" height="55"></a>
-  <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55" height="55"></a>
-  <a href="https://fedoraproject.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="55" height="55"></a>
-  <a href="https://archlinux.org/"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="55" height="55"></a>
-  <a href="https://ubuntu.com/"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="55" height="55"></a>
+  <a><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55" /></a>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="55" /></a>
+  <a><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="55" /></a>
 </p>
 
 ---
 
-## 🔥 Projects
-
-### 🚖 [RideNow - Scalable Ride Booking System](https://github.com/SamadhanGh/uber-backend)
-- Developed the **backend** for a ride-booking platform using **Spring Boot**
-- Integrated **Swagger UI** for live API testing & documentation
-- Connected with **PostgreSQL (AWS RDS)** for persistent storage
-- Designed secure **authentication, booking logic, driver-rider flow**, and transaction handling
-
-
-
----
-
-## 🎓 Certifications & Experience
-
-### Walmart USA - **Advanced Software Engineering Virtual Experience**
-- Implemented a **custom heap data structure** in Java
-- Designed **UML diagrams** and **ER models** for scalable retail applications
+## 🎓 Certifications  
+- **Java (HackerRank)**  
+- **Spring Boot & Security (Udemy, CodingShuttle)**  
+- **DSA (Apna College)**  
+- **Postman API (Badgr)**  
+- **Walmart SWE Simulation (Forage)**  
+🔗 *More coming soon…*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamadhanGh&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamadhanGh&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamadhanGh&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamadhanGh&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📢 Let's Connect!
+## 📢 Connect With Me
 
 <p align="center">
   <a href="http://www.linkedin.com/in/samadhan-gh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SamadhanGh/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-💬 I'm always up for a good tech talk or collaboration idea!
+💬 Always open for **collaborations, freelance work, or backend/system design discussions**.
 
 ---
 
-🌟 *If you like my work, feel free to ⭐ my repos. It truly motivates me!* 🌟
+🌟 *If you find my work helpful, consider ⭐ starring the repositories!* 🌟
+
